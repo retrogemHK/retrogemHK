@@ -1,4 +1,4 @@
-### I'm Jordy 🌱
+### A.K.A Jordy 🌱
 
 <!--
 **retrogemHK/retrogemHK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
