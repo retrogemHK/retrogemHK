@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Solved.ac Prifile](http://mazassumnida.wtf/api/mini/generate_badge?boj=retrogemhk)](https://solved.ac/retrogemhk/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=retrogemhk)](https://solved.ac/retrogemhk/)
